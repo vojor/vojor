@@ -31,3 +31,7 @@
 
 - 😶‍🌫️ I plan to delve deeper into a development language, probably C++, and also learn scripting languages such as Lua and Python. Wait for my good news.
 
+## Future plans and goals
+- [ ] English learning
+- [x] Kill time
+
