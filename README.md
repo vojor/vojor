@@ -5,9 +5,9 @@
 ![Vim](https://img.shields.io/badge/vim-build-brightgreen?style=flat&logo=vim&logoColor=orange&color=orange)
 ![Shell](https://img.shields.io/badge/shell-build-brightgreen?style=flat&logo=shell&logoColor=black&color=purple)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vojor&show_icons=true&theme=shadow_blue)](https://github.com/vojor)
+[![Alike's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojor&show_icons=true&theme=radical)](https://github.com/vojor/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vojor&theme=shadow_blue)](https://github.com/vojor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vojor&show_icons=true&theme=gruvbox](https://github.com/vojor/github-readme-stats)
 
 ## Who am i?
 
