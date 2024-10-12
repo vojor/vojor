@@ -7,7 +7,7 @@
 
 [![Alike's GitHub stats](https://github-readme-stats.vercel.app/api?username=vojor&show_icons=true&theme=radical)](https://github.com/vojor/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vojor&show_icons=true&theme=gruvbox](https://github.com/vojor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vojor&show_icons=true&theme=gruvbox)](https://github.com/vojor/github-readme-stats)
 
 ## Who am i?
 
